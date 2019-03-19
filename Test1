@@ -1,0 +1,12 @@
+1.1. A criação das matrizes
+
+1.2. O(n³)
+
+1.3. Se considerar que o algoritmo é uma multiplicação de cadeias de matrizes, um algoritmo publicado em 1981 por Hu e Shing atinge
+complexidade O(n log n).
+Eles mostraram como a multiplicação de cadeias de matrizes é um problema que pode ser transformado (ou reduzido)para o problema da
+triangulação de um polígono regular.
+
+2. Sim, porém o que vai determinar qual o tipo de abordagem que será aplicada e como será o desenvolvimento da engenharia
+de software em torno da mesma será o tipo de software requisitado. A engenharia de software engloba um conjunto de processos e metodos
+e ferramentas para a construção de sistemas complexos baseados em computador dentro do prazo e com qualidade.
